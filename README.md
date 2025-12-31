@@ -103,7 +103,9 @@
 系統回應：
 
 訂單新增成功
-<img width="282" height="128" alt="image" src="https://github.com/user-attachments/assets/962178c4-373e-4832-b913-72d1068ad48f" />
+
+<img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/17554749-85bf-4c90-acae-04839c0d78fc" />
+
 
 
 說明：
