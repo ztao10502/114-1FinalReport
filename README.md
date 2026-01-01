@@ -125,7 +125,7 @@ LogisticsSystem 類別
 
 ### 3.1 類別與資料結構設計
 
-Order 類別
+#### Order 類別
 
 成員名稱	資料型態	說明
 
@@ -139,7 +139,7 @@ status	string	訂單狀態
 
 courierName	string	配送員姓名
 
-Courier 類別
+#### Courier 類別
 
 成員名稱	資料型態	說明
 
@@ -147,7 +147,7 @@ courierId	string	配送員編號
 
 name	string	配送員姓名
 
-LogisticsSystem 類別
+#### LogisticsSystem 類別
 
 使用 vector<Order> 儲存訂單資料
 
