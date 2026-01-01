@@ -127,25 +127,25 @@
 
 #### Order 類別
 
-成員名稱	資料型態	說明
+成員名稱｜資料型態｜說明
 
-orderId	string	訂單編號
+orderId｜string｜訂單編號
 
-customer	string	客戶名稱
+customer｜string｜客戶名稱
 
-address	string	配送地址
+address｜string｜配送地址
 
-status	string	訂單狀態
+status｜string｜訂單狀態
 
-courierName	string	配送員姓名
+courierName｜string｜配送員姓名
 
 #### Courier 類別
 
-成員名稱	資料型態	說明
+成員名稱｜資料型態｜說明
 
-courierId	string	配送員編號
+courierId｜string｜配送員編號
 
-name	string	配送員姓名
+name｜string｜配送員姓名
 
 #### LogisticsSystem 類別
 
